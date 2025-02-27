@@ -21,7 +21,7 @@ A simple and easy-to-use **Token Launchpad** built with **Next.js**, allowing us
 
 ## 🏗 Tech Stack  
 
-- **Frontend**: **Next.js** (React-based)  
+- **Frontend**: **(React-based)**   
 - **Blockchain**: **Solana** 
 - **Deployment**: **Vercel**  
 
