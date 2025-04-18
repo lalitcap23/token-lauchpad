@@ -1,7 +1,7 @@
 
 # 🚀 Token Launchpad  
 
-A simple and easy-to-use **Token Launchpad** built with **Next.js**, allowing users to mint their own tokens effortlessly. Just enter the details, click mint, and deploy your token instantly!  
+A simple and easy-to-use **Token Launchpad** built with **React.js**, allowing users to mint their own tokens effortlessly. Just enter the details, click mint, and deploy your token instantly!  
 
 🔗 **Live Demo**: [token-lauchpad-eight.vercel.app](https://token-lauchpad-eight.vercel.app)  
 
